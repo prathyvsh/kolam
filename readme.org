@@ -1,0 +1,5 @@
+* Kolam
+
+Kolam is a keyboard driven pixel grid drawing application.
+
+It is envisioned as a test bed for some ideas like replayable version history and subjunctive editing.
